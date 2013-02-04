@@ -8,3 +8,6 @@ print "this is new branch"
 print "してきしてください"
 print "指摘してください"
 print "シテキしてください"
+
+print "result"
+print "問題ないです"
