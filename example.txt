@@ -1,0 +1,1 @@
+print "これはexample.txtです"
